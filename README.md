@@ -6,7 +6,7 @@ As I encountered this issue while working on a project. And I just decided to pu
 
 To make use of the script just clone using
 ```
-git clone 
+git clone https://github.com/manny-uncharted/fetch_contract_abi.git
 ```
     
     Then run the script using
